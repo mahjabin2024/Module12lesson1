@@ -1,0 +1,7 @@
+.borderstyling{
+    border: 1px solid black;
+}
+.redborder{
+    border: 1px solid red;
+    text-align: center;
+}
